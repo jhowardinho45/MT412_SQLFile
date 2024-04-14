@@ -13,7 +13,7 @@ For my SQL project, I decided to look at a student data set - containing info su
 
 `cleanedstudentdata.csv`: cleaned file, exported through Jupyter.
 
-`studentdata.sql`: studentattitudeandbehaviour.csv
+`studentdata.sql`: sql file used.
 
 ## What can be seen in this file?
 
